@@ -1,7 +1,7 @@
 #include "main.h"
 	/**
-	 * main - print _putchar
-	 * is written by marley
+	 * main - main function will print _putchar
+	 * _putchar: print the alphabet _putchar
 	 * Return: 0
 	 */
 

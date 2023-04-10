@@ -1,5 +1,4 @@
 #include "main.h"
-void _puts(char *str)
 #include<stdio.h>
 
 /**
@@ -7,7 +6,6 @@ void _puts(char *str)
 * _puts - print
 * Return: Always 0 (Success)
 */
-
 int main(void)
 {
 	_puts("\"Programming is like building a multilingual puzzle");
